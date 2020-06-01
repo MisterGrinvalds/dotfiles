@@ -1,0 +1,5 @@
+[user]
+	name = Ross Grinvalds
+	email = ross.grinvalds@gmail.com
+[core]
+	editor = nvim

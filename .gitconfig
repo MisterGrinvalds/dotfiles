@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+
+# Please adapt and uncomment the following lines:
+	name = Ross Grinvalds
+	email = ross.grinvalds@gmail.com
+[core]
+	editor = nvim\n
