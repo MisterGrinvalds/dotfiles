@@ -1,5 +1,6 @@
-[user]
-	name = Ross Grinvalds
-	email = ross.grinvalds@gmail.com
 [core]
-	editor = nvim
+  editor = nvim
+[include]
+  path = config.d/user.md
+  path = config.d/color.md
+  path = config.d/alias.md
