@@ -14,6 +14,7 @@
   f = fetch
   l = log
   lg = log --graph --pretty=format:'%C(yellow)%h%Creset %C(red)%d%Creset %s %C(white)(%cr)%Creset %C(cyan)<%an>%Creset' --abbrev-commit
+  m = merge
   r = remote
   s = status
   w = whatchanged
