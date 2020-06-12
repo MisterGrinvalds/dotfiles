@@ -1,3 +1,6 @@
-.bash_profile*
+.bash_*
+.coc/mru
 .secure/
+git/config.d/user
+karabiner/automatic_backups/
 nvim/
