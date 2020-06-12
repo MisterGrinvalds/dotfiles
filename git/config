@@ -1,6 +1,6 @@
 [core]
   editor = nvim
 [include]
-  path = config.d/user.md
-  path = config.d/color.md
-  path = config.d/alias.md
+  path = config.d/user
+  path = config.d/color
+  path = config.d/alias
