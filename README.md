@@ -4,12 +4,12 @@ I have been wanting to get to this and finally had some time to read from those 
 
 ## Assumptions
  - Environment variables set in shell
-   > $DOTFILES
-	 > $XDG_CONFIG_HOME
+   - $DOTFILES
+   - $XDG_CONFIG_HOME
 
 ## Organization
  - $DOTFILES == $XDG_CONFIG_HOME
-	 > Main location to store dotfiles and configurations.
+   - Main location to store dotfiles and configurations.
  - $DOTFILES/.secure
-   > Hide away tokens and keys here. Possible to do this using `.gitignore` but using a specific location will force intention wrt security decisions.
+   - Hide away tokens and keys here. Possible to do this using `.gitignore` but using a specific location will force intention wrt security decisions.
 
