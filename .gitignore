@@ -1,5 +1,6 @@
 .bash_*
-.coc/mru
+.coc*
+.npm*
 .secure/
 git/config.d/user
 karabiner/automatic_backups/
