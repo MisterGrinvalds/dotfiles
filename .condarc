@@ -1,3 +1,11 @@
 channels:
   - conda-forge
   - defaults
+
+envs_dirs:
+  - /opt/anaconda3/envs
+  - ~/.dotfiles/.conda/envs
+
+pkgs_dirs:
+  - /opt/anaconda3/pkgs
+  - ~/.dotfiles/.conda/pkgs
