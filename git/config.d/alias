@@ -12,6 +12,7 @@
   dc = diff --cached
   ds = diff --staged
   f = fetch
+	ff = pull --ff
   l = log
   lg = log --graph --pretty=format:'%C(yellow)%h%Creset %C(red)%d%Creset %s %C(white)(%cr)%Creset %C(cyan)<%an>%Creset' --abbrev-commit
   m = merge
