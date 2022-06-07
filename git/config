@@ -4,3 +4,7 @@
   path = config.d/user
   path = config.d/color
   path = config.d/alias
+[includeIf "gitdir:~/Repos/work"]
+    path = config.d/config.work
+[includeIf "gitdir:~/Repos/personal"]
+    path = config.d/config.personal
