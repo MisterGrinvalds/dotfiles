@@ -1,0 +1,10 @@
+[core]
+  editor = nvim
+[include]
+  path = .gitconfig.user
+  path = .gitconfig.color
+  path = .gitconfig.alias
+[includeIf "gitdir:~/Repos/work"]
+    path = ~/.gitconfig.work
+[includeIf "gitdir:~/Repos/personal"]
+    path = ~/.gitconfig.personal
