@@ -1,5 +1,9 @@
-# Dot Files
+# Dotfiles
 Place to manage dotfile configurations for various applications.
+
+## Applications
+### GitHub
+Uses `~/Repos/work` and `~/Repos/personal` as paths for different git profiles.
 
 ## Assumptions
  - Environment variables set in shell
