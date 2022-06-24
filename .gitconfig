@@ -3,7 +3,8 @@
 [include]
   path = .gitconfig.color
   path = .gitconfig.alias
+[user]
+    name = MisterGrinvalds
+    email = ross.grinvalds@gmail.com
 [includeIf "gitdir:~/Repos/work/"]
     path = ~/.gitconfig.work
-[includeIf "gitdir:~/Repos/personal/"]
-    path = ~/.gitconfig.personal
